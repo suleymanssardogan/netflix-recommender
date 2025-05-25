@@ -18,34 +18,7 @@ Kubernetes (Opsiyonel - Dağıtım/Orkestrasyon)
 
 Git/GitHub (Versiyon kontrol)
 
-📁 Proje Yapısı
-bash
-Kopyala
-Düzenle
-netflix-recommender/
-├── data/                    # Veri seti (netflix_titles.csv)
-├── notebooks/               # EDA ve analiz notebookları
-├── app/                     # Streamlit uygulaması
-├── models/                  # Eğitilmiş modeller
-├── Dockerfile               # Docker yapılandırması
-├── requirements.txt         # Gerekli Python kütüphaneleri
-├── README.md                # Proje tanımı
-└── .gitignore
-⚙️ Kurulum
-bash
-Kopyala
-Düzenle
-git clone https://github.com/kullanici-adin/netflix-recommender.git
-cd netflix-recommender
-pip install -r requirements.txt
-streamlit run app/streamlit_app.py
-Docker ile çalıştırmak için:
 
-bash
-Kopyala
-Düzenle
-docker build -t netflix-recommender .
-docker run -p 8501:8501 netflix-recommender
 📊 Proje Özellikleri
 İçerik tabanlı filtreleme (Content-Based Filtering)
 
