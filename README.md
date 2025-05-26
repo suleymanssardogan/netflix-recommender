@@ -35,6 +35,16 @@ Benzerlik metrikleri (TF-IDF, cosine similarity) ile öneri sistemi
 
 Model optimizasyonu
 
+
+
+
+
+26/05/2025 
+İlk netflix verisi istenildiği gibi EDA yapıldı ve Streamlit ile web oluşturuldu. Kullanıcı kategoriksel olarak film arayabiliyor.(Yapıldı)
+
+27/05/2025
+Hedef --> Farklı seçim özellikleri getir kullanıcı daha rahat hareket etsin,görselleştirme arttırılsın,yeni veri setleri araştırılacak
+
 Kullanıcı arayüzü geliştirme (Streamlit)
 
 Dağıtım ve ölçeklenebilirlik (Docker, Kubernetes)
