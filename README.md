@@ -8,7 +8,7 @@ Netflix içerikleri arasında benzer tür, yönetmen, oyuncu ve açıklamalara g
 🔧 Kullanılan Teknolojiler
 Python 🐍
 
-Pandas, NumPy, Scikit-learn
+Pandas, NumPy, Scikit-learn,Matplotlib,Seaborn
 
 Streamlit (Web arayüzü için)
 
